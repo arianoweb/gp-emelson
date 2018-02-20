@@ -2,14 +2,14 @@
 
 En el Proyecto estan Integrados los dos ejercicios pudiendo manipular desde menu bar.
 
-Las clases esta Separadas 
-app/ejercicio1/
-app/ejercicio2/
+## Las clases esta Separadas 
+### app/ejercicio1/
+### app/ejercicio2/
 
-Y las interfaces en:
+## Y las interfaces en:
 
-resource/view/template/ejercicio1.blade.php
-resource/view/template/ejercicio2.blade.php
+### resource/view/template/ejercicio1.blade.php
+### resource/view/template/ejercicio2.blade.php
 
 ## Clases
 

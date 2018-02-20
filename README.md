@@ -1,4 +1,4 @@
-# Ejercios de Geopagos
+# Ejercicios de Geopagos
 
 
 

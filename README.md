@@ -1,9 +1,22 @@
 # Ejercicios de Geopagos
 
+En el Proyecto estan Integrados los dos ejercicios pudiendo manipular desde menu bar.
 
+Las clases esta Separadas 
+app/ejercicio1/
+app/ejercicio2/
+
+Y las interfaces en:
+
+resource/view/template/ejercicio1.blade.php
+resource/view/template/ejercicio2.blade.php
+
+## Clases
 
 Clases para poder administrar (altas, bajas y modificaciones) los usuarios, sus favoritos, y sus pagos, a partir del modelo la estructura de datos en repositorio.
 
+clases necesarias que permita la creación de objetos que representen figuras
+geométricas dadas (cuadrado, triangulo, círculo)
 
 
 ## Ejercicio N° 1 de Figuras:

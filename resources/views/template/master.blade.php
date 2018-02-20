@@ -40,7 +40,7 @@
                     <div class="main_service_area sections">
                         <div class="col-sm-6">
                             <div class="signle_service_left">
-                                <h2>Ejercicos<br><br> GeoPagos!</h2>
+                                <h2>Ejercicios<br><br> GeoPagos!</h2>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -53,7 +53,7 @@
                                     <div class="single_service_content">
                                         <h3>Detalles de la Evaluación</h3>
                                         <p>En el NavBar se encuentra los dos ejercicios de evaluación, el contenido se encuentra inicialisado en el Archivo HomeController.php,
-                                         ademas de ello el resultado de el que titule ejercico dos se encuetra en SLIDES por cual deben ver los valores de la figuras deslizado
+                                         ademas de ello el resultado del ejercicio dos se encuetra en SLIDES por cual deben ver los valores de las figuras deslizado
                                          cada SLIDE.
                                         <br>
                                          <p>

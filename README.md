@@ -6,6 +6,18 @@ Clases para poder administrar (altas, bajas y modificaciones) los usuarios, sus 
 
 
 
+## Ejercicio N° 1 de Figuras:
+Utiliza las Clases: Pago, Usuario.
+Estas clases se encuentran en app/ejercicio1/
+Se utilizo template blade se encuentra en: resource/view/template/ejercicio1.blade.php
+
+## Ejercicio N° 2 de Figuras:
+Utiliza las Clases: cuadrado,circulo,triangulo,FFactory,Figuras.
+Estas clases se encuentran en app/ejercicio2/
+Se utilizo template blade se encuentra en: resource/view/template/ejercicio2.blade.php
+
+
+
 ## Installation
 
 El ejercicio esta desarrolado con Laravel 5.4 con Integración Bootstrap, por lo tanto es necesario tener instalado Composer en la computadora.
